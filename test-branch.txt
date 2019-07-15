@@ -5,3 +5,4 @@ Ich teste Branch.
 Wie werden Brancht erzeugt?
 Was kann ich damit machen?
 
+Einen neuen Branch erstellt seperat hochgeladen auf den Server.
